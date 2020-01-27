@@ -26,7 +26,7 @@ First [make sure you have Gridsome installed](https://gridsome.org/docs/#how-to-
 gridsome create my-website https://github.com/Uninen/gridsome-starter-tulip.git
 ```
 
-Read and follow the [detailed configuration instructions](https://tailwindcss.com/docs/line-height), you'll be done in less than 5 minutes.
+Read and follow the [detailed configuration instructions](https://gridsome-starter-tulip.netlify.com/), you'll be done in less than 5 minutes.
 
 ### Contributing
 
