@@ -102,7 +102,7 @@ query {
 <script>
 export default {
   metaInfo: {
-    title: "Tulip - Simple One Page Gridsome Starter"
+    title: "Tulip - Single Page Gridsome Starter"
   }
 };
 </script>

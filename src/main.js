@@ -11,6 +11,18 @@ export default function(Vue, { router, head, isClient }) {
   head.htmlAttrs = { lang: 'en' }
   head.bodyAttrs = { class: 'antialiased font-body font-serif' }
 
+  // Styles
+  head.link.push({
+    rel: 'stylesheet',
+    href: 'https://fonts.googleapis.com/css?family=Great+Vibes|Libre+Baskerville&display=swap',
+  })
+
+  // Basic meta tags
+  head.meta.push({
+    name: 'author',
+    content: 'Ville Säävuori',
+  })
+
   head.meta.push({
     name: 'keywords',
     content: 'Gridsome,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS',
@@ -18,17 +30,33 @@ export default function(Vue, { router, head, isClient }) {
 
   head.meta.push({
     name: 'description',
-    content: 'Simple single page Gridsome starter template.',
+    content: 'Single page starter template for Gridsome.',
+  })
+
+  // Open Graph + Twitter meta tags
+  head.meta.push({
+    property: 'og:description',
+    content: 'Single page starter template for Gridsome.',
   })
 
   head.meta.push({
-    name: 'author',
-    content: 'Ville Säävuori',
+    name: 'twitter:description',
+    content: 'Single page starter template for Gridsome.',
   })
 
-  head.link.push({
-    rel: 'stylesheet',
-    href: 'https://fonts.googleapis.com/css?family=Great+Vibes|Libre+Baskerville&display=swap',
+  head.meta.push({
+    property: 'og:type',
+    content: 'website',
+  })
+
+  head.meta.push({
+    property: 'og:title',
+    content: 'Tulip - Single Page Gridsome Starter',
+  })
+
+  head.meta.push({
+    name: 'twitter:title',
+    content: 'Tulip - Single Page Gridsome Starter',
   })
 
   head.meta.push({
