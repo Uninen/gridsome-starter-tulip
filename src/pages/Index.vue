@@ -17,9 +17,9 @@
       />
     </div>
 
-    <h2>Simple single page starter for <a href="https://gridsome.org">Gridsome</a></h2>
+    <h2>Single page starter for <a href="https://gridsome.org">Gridsome</a></h2>
 
-    <p class="text-2xl font-sans text-gray-700 pb-2">No blog, tags or other cruft; <br> only <strong>one simple page</strong> you can paste your content into.</p>
+    <p class="text-2xl font-sans text-gray-700 pb-2">No blog, tags or other cruft; <br> just a <strong>single page</strong> for your your content.</p>
 
     <ul class="text-lg leading-relaxed">
       <li><strong><a href="https://tailwindcss.com">Tailwind CSS</a></strong> w/ minimal base styles</li>
