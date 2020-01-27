@@ -70,6 +70,16 @@
       <li>Finally, <a href="https://gridsome.org/docs/">Gridsome docs</a> and <a href="https://vuejs.org/v2/guide/">Vue docs</a> will guide you forward</li>
     </ul>
 
+    <p class="pt-4"><strong>You can host your built Gridsome site just about anywhere</strong> (it's just a static site). <a href="https://www.netlify.com/">Netlify</a> is one of the easiest and free ways for automatically deploy with every push. You can <a href="https://app.netlify.com/start/deploy?repository=https://github.com/Uninen/gridsome-starter-tulip">test it via this link</a> and have your own deployment running in about a minute!</p>
+
+    <p>
+      <a href="https://app.netlify.com/start/deploy?repository=https://github.com/Uninen/gridsome-starter-tulip"><img
+          src="https://www.netlify.com/img/deploy/button.svg"
+          class="h-8 mx-auto"
+          alt="Deploy to Netlify"
+        ></a>
+    </p>
+
     <h3>Never Asked Questions</h3>
 
     <dl class="list-none">
