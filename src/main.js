@@ -43,11 +43,11 @@ export default function(Vue, { router, head, isClient }) {
 
   head.meta.push({
     property: 'og:image',
-    content: ' https://gridsome-starter-tulip.netlify.com/static/img/social-preview.png',
+    content: ' https://gridsome-starter-tulip.netlify.com/img/social-preview.png',
   })
 
   head.meta.push({
     name: 'twitter:image',
-    content: 'https://gridsome-starter-tulip.netlify.com/static/img/social-preview.png',
+    content: 'https://gridsome-starter-tulip.netlify.com/img/social-preview.png',
   })
 }
