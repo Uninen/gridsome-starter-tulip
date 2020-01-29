@@ -4,6 +4,8 @@
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Uninen/gridsome-starter-tulip)
 
+[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/Uninen/gridsome-starter-tulip)
+
 ### Preview / Demo
 
 ![Tulip starter for Gridsome preview](./static/img/screenshot-0.1.0.png)
