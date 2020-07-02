@@ -1,6 +1,6 @@
 {
   "private": false,
-  "version": "0.2.0",
+  "version": "0.2.1",
   "license": "MIT",
   "scripts": {
     "develop": "gridsome develop",
@@ -12,3 +12,4 @@
     "gridsome": "^0.7.18",
     "gridsome-plugin-tailwindcss": "^3.0.1"
   }
+}
