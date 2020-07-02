@@ -1,6 +1,6 @@
 {
   "private": false,
-  "version": "0.1.0",
+  "version": "0.2.0",
   "license": "MIT",
   "scripts": {
     "develop": "gridsome develop",
@@ -8,8 +8,7 @@
     "build": "gridsome build"
   },
   "dependencies": {
-    "@gridsome/plugin-google-analytics": "^0.1.0",
-    "gridsome": "^0.7.0",
-    "gridsome-plugin-tailwindcss": "^2.2.32"
+    "@gridsome/plugin-google-analytics": "^0.1.1",
+    "gridsome": "^0.7.18",
+    "gridsome-plugin-tailwindcss": "^3.0.1"
   }
-}
