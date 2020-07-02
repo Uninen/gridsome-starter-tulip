@@ -35,3 +35,7 @@ Read and follow the [detailed configuration instructions](https://gridsome-start
 Feel free to open a ticket if you feel something is broken or missing. All contributions are welcome, I only ask you to follow the [code of conduct](./CODE_OF_CONDUCT.md).
 
 Lastly, Big Thank You to Gridsome and Vue teams for making these great tools! ❤️
+
+### Support Open Source Development
+
+<a href="https://www.buymeacoffee.com/Uninen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
