@@ -11,5 +11,8 @@
     "@gridsome/plugin-google-analytics": "^0.1.1",
     "gridsome": "^0.7.19",
     "gridsome-plugin-tailwindcss": "^3.0.1"
+  },
+  "devDependencies": {
+    "netlify-plugin-gridsome-cache": "^1.0.2"
   }
 }
