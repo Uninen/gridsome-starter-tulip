@@ -4,7 +4,7 @@
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Uninen/gridsome-starter-tulip)
 
-[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/Uninen/gridsome-starter-tulip)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/Uninen/gridsome-starter-tulip)
 
 ### Preview / Demo
 
@@ -37,5 +37,7 @@ Feel free to open a ticket if you feel something is broken or missing. All contr
 Lastly, Big Thank You to Gridsome and Vue teams for making these great tools! ❤️
 
 ### Support Open Source Development
+
+Follow [@uninen on Twitter](https://twitter.com/uninen)
 
 <a href="https://www.buymeacoffee.com/Uninen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
