@@ -1,18 +1,19 @@
 {
   "private": false,
-  "version": "0.2.2",
+  "version": "0.2.3",
   "license": "MIT",
   "scripts": {
     "develop": "gridsome develop",
+    "dev": "gridsome develop",
     "explore": "gridsome explore",
     "build": "gridsome build"
   },
   "dependencies": {
-    "@gridsome/plugin-google-analytics": "^0.1.1",
-    "gridsome": "^0.7.19",
+    "@gridsome/plugin-google-analytics": "^0.1.2",
+    "gridsome": "^0.7.21",
     "gridsome-plugin-tailwindcss": "^3.0.1"
   },
   "devDependencies": {
-    "netlify-plugin-gridsome-cache": "^1.0.2"
+    "netlify-plugin-gridsome-cache": "^1.0.3"
   }
 }
