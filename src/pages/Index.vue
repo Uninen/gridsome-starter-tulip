@@ -19,7 +19,7 @@
 
     <h2>Single page starter for <a href="https://gridsome.org">Gridsome</a></h2>
 
-    <p class="text-2xl font-sans text-gray-700 pb-2">No blog, tags or other cruft; <br> just a <strong>single page</strong> for your your content.</p>
+    <p class="text-2xl font-sans text-gray-700 pb-2">No blog, tags or other cruft; <br> just a <strong>single page</strong> for your content.</p>
 
     <ul class="text-lg leading-relaxed">
       <li><strong><a href="https://tailwindcss.com">Tailwind CSS</a></strong> w/ minimal base styles</li>
@@ -29,7 +29,7 @@
 
     <h3>Installation And Configuration</h3>
 
-    <p>Installing and configuring tulip is very easy. You'll get your site up and running in less
+    <p>Installing and configuring Tulip is very easy. You'll get your site up and running in less
       than 5 minutes. There's nothing special about Tulip, it's just a Gridsome site,
       which is again is nothing more than some clever bits around <a href="https://vuejs.org/">Vue</a>.</p>
 
@@ -58,7 +58,7 @@
 
     <p>If you have existing styles you want to use, you can just copy them into <code>assets/css/</code> and import them (either in <code>main.js</code> or in <code>Index.vue</code>), or just add them in the style-section of the <code>Index.vue</code> page.</p>
 
-    <p>(Note: if your existing styles arent based on Tailwind, you'll probably want to remove the Tailwind plugin also as the Preflight normalizations are automatically imported and might affect your old styles.)</p>
+    <p>(Note: if your existing styles aren't based on Tailwind, you'll probably want to remove the Tailwind plugin also as the Preflight normalizations are automatically imported and might affect your old styles.)</p>
 
     <p>That's it, you're done! 🎉</p>
 
@@ -88,7 +88,7 @@
         wanted a super clean and fast way to get started with Gridsome. The goal was to have a starter template that would involve as few modifications and deletions to get something simple yet production quality stuff published.</dd>
 
       <dt>What if I want multiple page styles, a blog, authors, tags etc?</dt>
-      <dd>If you are just starting, then Tulip is not for you. Try some other awesome <a href="https://gridsome.org/starters/">Gridsome starter</a> (But if you're building your site a bit by bit, tweaking Tulip is as easy as any other Gridsome site &ndash; it's basically just Vue!)</dd>
+      <dd>If you are just starting, then Tulip is not for you. Try some other awesome <a href="https://gridsome.org/starters/">Gridsome starter</a>. (But if you're building your site bit by bit, tweaking Tulip is as easy as any other Gridsome site &ndash; it's basically just Vue!)</dd>
     </dl>
 
     <p class="text-center mt-16 mb-8 text-xs">
